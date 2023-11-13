@@ -1,0 +1,47 @@
+body{
+    background-color: #f6129f ;
+    
+}
+#btn{
+    background-color: rgb(34, 111, 188);
+    width: 70px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#btn:hover{
+    background-color: rgb(90, 21, 175);
+
+}
+#dis{
+    width: 220px;
+    height: 40px;
+    font-size: 30px;
+    background-color: white;
+    text-align: right;
+
+}
+
+#btn1{
+    background-color: red ;
+    width: 70px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#btn1:hover{
+    background-color: rgb(243, 43, 43);
+
+}
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.calsy{
+    display: flex;
+}
